@@ -48,4 +48,5 @@ public class ProdutoPojo {
     public void setComponentes(List<ComponentePojo> componentes) {
         this.componentes = componentes;
     }
+
 }
