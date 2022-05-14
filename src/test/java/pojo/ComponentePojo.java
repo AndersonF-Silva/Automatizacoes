@@ -19,4 +19,5 @@ public class ComponentePojo {
     public void setComponenteQuantidade(int componenteQuantidade) {
         this.componenteQuantidade = componenteQuantidade;
     }
+
 }

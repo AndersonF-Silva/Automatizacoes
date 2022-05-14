@@ -19,4 +19,5 @@ public class UsuarioPojo {
     public void setUsuarioSenha(String usuarioSenha) {
         this.usuarioSenha = usuarioSenha;
     }
+
 }
